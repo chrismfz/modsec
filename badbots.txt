@@ -11,46 +11,40 @@ feedfinder
 gamingharbor
 heritrix
 ia_archiver
-Indy Library
 Jakarta
-Java
 juicyaccess
 larbin
 linkdex
-Missigua
 MRSPUTNIK
-Nutch
+
 panscient
 plaNETWORK
 Snapbot
-Sogou
 TinEye
 TwengaBot
 Twitturly
 User-Agent
 Viewzi
-WebCapture
 XX
 Yandex
 YebolBot
 libwww-perl
-^BinGet
-^PycURL
-^Lynx
-^PHP
-^Wget
-^Nutch
-^Java
-^Ruby
-^PEAR
-^SEOstats
-^Python\-urllib
-^python\-requests
-^HTTP_Request
-^HTTP_Request2
+BinGet
+PycURL
+Lynx
+PHP
+Nutch
+Java
+Ruby
+PEAR
+SEOstats
+Python-urllib
+python-requests
+HTTP_Request
+HTTP_Request2
 Zend_Http_Client
-Jakarta\ Commons-HttpClient
-The\ Incutio\ XML-RPC\ PHP\ Library
+Jakarta Commons-HttpClient
+The Incutio XML-RPC PHP Library
 WordPress
 NING
 Baiduspider
@@ -62,27 +56,23 @@ YandexBlogs
 YandexBot
 YandexMedia
 YandexSomething
-Mail\.RU_Bot
+Mail.RU_Bot
 DoCoMo
 ichiro
-moget
 NaverBot
 meanpathbot
-Babya\ Discoverer
-MRSPUTNIK
+Babya Discoverer
 Genieo
 shr_recommendations_app
-^multi_get
-NLP\ Lightweight
+multi_get
+NLP Lightweight
 URLAppendBot
 ZumBot
-Yandex
 MJ12bot
 rojerbot
 Exabot
 dotbot
 gigabot
-AhrefsBot
 accelobot
 searchmetrics
 awcheckBot
@@ -93,32 +83,30 @@ Ezooms
 SurveyBot
 sitebot
 dotnetdotcom
-dotbot
 SolomonoBot
 ZmEu
 lipperhey
 WBSearchBot
 Snoopy
-AhrefsBot
 DinoPing
-dataprovider\.com
+dataprovider.com
 discoverybot
-www\.integromedb\.org
+www.integromedb.org
 360Spider
 80legs
 YamanaLab-Robot
-ip-web-crawler\.com
+ip-web-crawler.com
 Aboundex
 Sleuth
 NCBot
 JikeSpider
 Curious
-visaduhoc\.info
+visaduhoc.info
 SemrushBot
-archive\.org_bot
-Dow\ Jones\ Searchbot
+archive.org_bot
+Dow Jones Searchbot
 SISTRIX
-brandwatch\.net
+brandwatch.net
 magpie-crawler
 TurnitinBot
 aiHitBot
@@ -134,35 +122,32 @@ Riddler
 CLIPish
 proximic
 WebCapture
-Indy\ Library
-Add\ Catalog
+Indy Library
+Add Catalog
 Butterfly
-MSIE\ or\ Firefox\ mutant
+MSIE or Firefox mutant
 SocialSearcher
-xpymep\.exe
-linkdex\.com
-lindex\.com
+xpymep.exe
+linkdex.com
+lindex.com
 YodaoBot
-^POGS
+POGS
 WebInDetail
 WEBSITEtheWEB
 CatchBot
 NextGenSearchBot
 BacklinkCrawler
-^rarely\ used
-^DomainCrawler
+rarely used
+DomainCrawler
 ltbot
 NetcraftSurveyAgent
-COMODO
-Comodo-Certificates-Spider
 OpenWebIndex
-FTRF\:\ Friendly
-^ia_archiver
+FTRF: Friendly
 Wotbot
 QuerySeekerSpider
-netEstate\ NE\ Crawler
+netEstate NE Crawler
 Synapse
-news\ bot
+news bot
 dragostea
 tencenttraveler
 asterias
@@ -184,16 +169,12 @@ Crescent
 Crescent Internet ToolPak HTTP OLE Control v.1.0
 DittoSpyder
 EmailCollector
-EmailSiphon
-EmailWolf
 EroCrawler
-ExtractorPro
 Foobot
 Harvest/1.5
 hloader
 httplib
 humanlinks
-ia_archiver
 InfoNaviRobot
 JennyBot
 Kenjin Spider
@@ -232,7 +213,6 @@ QueryN Metasearch
 RepoMonkey
 RepoMonkey Bait & Tackle/v1.01
 RMA
-SiteSnagger
 SpankBot
 spanner
 suzuran
@@ -258,7 +238,6 @@ WebBandit/3.50
 WebCopier
 WebEnhancer
 WebmasterWorldForumBot
-WebSauger
 Website Quester
 Webster Pro
 WebStripper
@@ -272,80 +251,69 @@ Xenu's
 Xenu's Link Sleuth 1.1c
 Zeus
 Zeus 32297 Webster Pro V2.9 Win32
-^BlackWidow
-^Bot
-^ChinaClaw
-^Custo
-^DISCo
-^Download
-^eCatch
-^EirGrabber
-^EmailSiphon
-^EmailWolf
-^Express
-^ExtractorPro
-^EyeNetIE
-^FlashGet
-^GetRight
-^GetWeb!
-^Go!Zilla
-^Go-Ahead-Got-It
-^GrabNet
-^Grafula
-^HMView
+BlackWidow
+Bot
+ChinaClaw
+Custo
+DISCo
+Download
+eCatch
+EirGrabber
+EmailSiphon
+EmailWolf
+Express
+ExtractorPro
+EyeNetIE
+FlashGet
+GetRight
+GetWeb!
+Go!Zilla
+Go-Ahead-Got-It
+GrabNet
+Grafula
+HMView
 HTTrack
-^Image
-^Image
+Image
 Indy
-^InterGET
-^Internet
-^JetCar
-^JOC
-^larbin
-^libghttp
-^LeechFTP
-^Mass
-^MIDown
-^Missigua
-^Mister
-^Navroad
-^NearSite
-^NetAnts
-^NetSpider
-^Net
-^NetZIP
-^Octopus
-^Offline
-^Offline
-^PageGrabber
-^Papa
-^pavuk
-^pcBrowser
-^RealDownload
-^ReGet
-^SiteSnagger
-^SmartDownload
-^SuperBot
-^SuperHTTP
-^Surfbot
-^tAkeOut
-^Teleport
-^VoidEYE
-^Web
-^Web
-^WebAuto
-^WebCopier
-^WebFetch
-^WebGo
-^WebLeacher
-^WebReaper
-^WebSauger
-^Website
-^Website
-^WebStripper
-^WebWhacker
-^WebZIP
-^Widow
-^WWWOFFLE
-^Xaldon
-^Zeus
+InterGET
+Internet
+JetCar
+JOC
+libghttp
+LeechFTP
+Mass
+MIDown
+Missigua
+Mister
+Navroad
+NearSite
+NetSpider
+Net
+NetZIP
+Octopus
+Offline
+PageGrabber
+Papa
+pavuk
+pcBrowser
+RealDownload
+ReGet
+SiteSnagger
+SmartDownload
+SuperBot
+SuperHTTP
+Surfbot
+tAkeOut
+VoidEYE
+Web
+WebFetch
+WebGo
+WebLeacher
+WebReaper
+WebSauger
+Website
+WebWhacker
+WebZIP
+Widow
+WWWOFFLE
+Xaldon
