@@ -165,3 +165,189 @@ Synapse
 news\ bot
 dragostea
 tencenttraveler
+asterias
+BackDoorBot/1.0
+Black Hole
+BlowFish/1.0
+BotALot
+BuiltBotTough
+Bullseye/1.0
+BunnySlippers
+Cegbfeieh
+CheeseBot
+CherryPicker
+CherryPickerElite/1.0
+CherryPickerSE/1.0
+CopyRightCheck
+cosmos
+Crescent
+Crescent Internet ToolPak HTTP OLE Control v.1.0
+DittoSpyder
+EmailCollector
+EmailSiphon
+EmailWolf
+EroCrawler
+ExtractorPro
+Foobot
+Harvest/1.5
+hloader
+httplib
+humanlinks
+ia_archiver
+InfoNaviRobot
+JennyBot
+Kenjin Spider
+Keyword Density/0.9
+LexiBot
+libWeb/clsHTTP
+LinkextractorPro
+LinkScan/8.1a Unix
+LinkWalker
+LNSpiderguy
+lwp-trivial
+lwp-trivial/1.34
+Mata Hari
+Microsoft URL Control - 5.01.4511
+Microsoft URL Control - 6.00.8169
+MIIxpc
+MIIxpc/4.2
+Mister PiX
+moget
+moget/2.1
+mozilla/4
+Mozilla/4.0 (compatible; BullsEye; Windows 95)
+Mozilla/4.0 (compatible; MSIE 4.0; Windows 95)
+Mozilla/4.0 (compatible; MSIE 4.0; Windows 98)
+Mozilla/4.0 (compatible; MSIE 4.0; Windows NT)
+Mozilla/4.0 (compatible; MSIE 4.0; Windows XP)
+Mozilla/4.0 (compatible; MSIE 4.0; Windows 2000)
+Mozilla/4.0 (compatible; MSIE 4.0; Windows ME)
+mozilla/5
+NetAnts
+NICErsPRO
+Offline Explorer
+Openfind
+Openfind data gathere
+ProPowerBot/2.14
+ProWebWalker
+QueryN Metasearch
+RepoMonkey
+RepoMonkey Bait & Tackle/v1.01
+RMA
+SiteSnagger
+SpankBot
+spanner
+suzuran
+Szukacz/1.4
+Teleport
+TeleportPro
+Telesoft
+The Intraformant
+TheNomad
+TightTwatBot
+Titan
+toCrawl/UrlDispatcher
+True_Robot
+True_Robot/1.0
+turingos
+URLy Warning
+VCI
+VCI WebViewer VCI WebViewer Win32
+Web Image Collector
+WebAuto
+WebBandit
+WebBandit/3.50
+WebCopier
+WebEnhancer
+WebmasterWorldForumBot
+WebSauger
+Website Quester
+Webster Pro
+WebStripper
+WebZip
+WebZip/4.0
+Wget
+Wget/1.5.3
+Wget/1.6
+WWW-Collector-E
+Xenu's
+Xenu's Link Sleuth 1.1c
+Zeus
+Zeus 32297 Webster Pro V2.9 Win32
+^BlackWidow
+^Bot
+^ChinaClaw
+^Custo
+^DISCo
+^Download
+^eCatch
+^EirGrabber
+^EmailSiphon
+^EmailWolf
+^Express
+^ExtractorPro
+^EyeNetIE
+^FlashGet
+^GetRight
+^GetWeb!
+^Go!Zilla
+^Go-Ahead-Got-It
+^GrabNet
+^Grafula
+^HMView
+HTTrack
+^Image
+^Image
+Indy
+^InterGET
+^Internet
+^JetCar
+^JOC
+^larbin
+^libghttp
+^LeechFTP
+^Mass
+^MIDown
+^Missigua
+^Mister
+^Navroad
+^NearSite
+^NetAnts
+^NetSpider
+^Net
+^NetZIP
+^Octopus
+^Offline
+^Offline
+^PageGrabber
+^Papa
+^pavuk
+^pcBrowser
+^RealDownload
+^ReGet
+^SiteSnagger
+^SmartDownload
+^SuperBot
+^SuperHTTP
+^Surfbot
+^tAkeOut
+^Teleport
+^VoidEYE
+^Web
+^Web
+^WebAuto
+^WebCopier
+^WebFetch
+^WebGo
+^WebLeacher
+^WebReaper
+^WebSauger
+^Website
+^Website
+^WebStripper
+^WebWhacker
+^WebZIP
+^Widow
+^WWWOFFLE
+^Xaldon
+^Zeus
