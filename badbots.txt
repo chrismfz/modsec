@@ -1,0 +1,35 @@
+AhrefsBot
+Anonymizer
+Attributor
+Baidu
+Bork-edition
+DataCha0s
+Deepnet Explorer
+desktopsmiley
+DigExt
+feedfinder
+gamingharbor
+heritrix
+ia_archiver
+Indy Library
+Jakarta
+Java
+juicyaccess
+larbin
+linkdex
+Missigua
+MRSPUTNIK
+Nutch
+panscient
+plaNETWORK
+Snapbot
+Sogou
+TinEye
+TwengaBot
+Twitturly
+User-Agent
+Viewzi
+WebCapture
+XX
+Yandex
+YebolBot
