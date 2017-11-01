@@ -44,7 +44,6 @@ HTTP_Request2
 Zend_Http_Client
 Jakarta Commons-HttpClient
 The Incutio XML-RPC PHP Library
-WordPress
 NING
 Baiduspider
 Sosospider
@@ -242,9 +241,6 @@ Webster Pro
 WebStripper
 WebZip
 WebZip/4.0
-Wget
-Wget/1.5.3
-Wget/1.6
 WWW-Collector-E
 Xenu's
 Xenu's Link Sleuth 1.1c
