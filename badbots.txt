@@ -304,7 +304,6 @@ SuperHTTP
 Surfbot
 tAkeOut
 VoidEYE
-Web
 WebFetch
 WebGo
 WebLeacher
