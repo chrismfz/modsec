@@ -24,7 +24,6 @@ TwengaBot
 Twitturly
 User-Agent
 Viewzi
-XX
 Yandex
 YebolBot
 libwww-perl
@@ -101,7 +100,6 @@ JikeSpider
 Curious
 visaduhoc.info
 SemrushBot
-archive.org_bot
 Dow Jones Searchbot
 SISTRIX
 brandwatch.net
@@ -283,6 +281,7 @@ Mister
 Navroad
 NearSite
 NetSpider
+Net
 NetZIP
 Octopus
 Offline
