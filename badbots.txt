@@ -283,7 +283,6 @@ Mister
 Navroad
 NearSite
 NetSpider
-Net
 NetZIP
 Octopus
 Offline
