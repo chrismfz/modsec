@@ -43,9 +43,6 @@ python-requests
 HTTP_Request
 HTTP_Request2
 Zend_Http_Client
-Jakarta Commons-HttpClient
-The Incutio XML-RPC PHP Library
-NING
 Baiduspider
 Sosospider
 Sogou
