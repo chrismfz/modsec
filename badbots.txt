@@ -226,7 +226,6 @@ turingos
 URLy Warning
 VCI
 VCI WebViewer VCI WebViewer Win32
-Web Image Collector
 WebAuto
 WebBandit
 WebBandit/3.50
@@ -265,7 +264,6 @@ GrabNet
 Grafula
 HMView
 HTTrack
-Image
 Indy
 InterGET
 Internet
