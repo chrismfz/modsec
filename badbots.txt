@@ -142,7 +142,6 @@ Wotbot
 QuerySeekerSpider
 netEstate NE Crawler
 Synapse
-news bot
 dragostea
 tencenttraveler
 asterias
