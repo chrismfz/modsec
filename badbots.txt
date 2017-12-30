@@ -243,7 +243,6 @@ Xenu's Link Sleuth 1.1c
 Zeus
 Zeus 32297 Webster Pro V2.9 Win32
 BlackWidow
-Bot
 ChinaClaw
 Custo
 DISCo
