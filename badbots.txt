@@ -32,7 +32,6 @@ libwww-perl
 BinGet
 PycURL
 Lynx
-PHP
 Nutch
 Java
 Ruby
