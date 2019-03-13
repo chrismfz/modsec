@@ -205,7 +205,6 @@ ProWebWalker
 QueryN Metasearch
 RepoMonkey
 RepoMonkey Bait & Tackle/v1.01
-RMA
 SpankBot
 spanner
 suzuran
