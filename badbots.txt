@@ -24,7 +24,6 @@ Snapbot
 TinEye
 TwengaBot
 Twitturly
-User-Agent
 Viewzi
 Yandex
 YebolBot
