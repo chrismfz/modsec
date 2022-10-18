@@ -93,7 +93,6 @@ NCBot
 JikeSpider
 Curious
 visaduhoc.info
-SemrushBot
 Dow Jones Searchbot
 SISTRIX
 brandwatch.net
