@@ -238,7 +238,6 @@ BlackWidow
 ChinaClaw
 Custo
 DISCo
-Download
 eCatch
 EirGrabber
 EmailSiphon
