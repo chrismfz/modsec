@@ -30,7 +30,6 @@ PycURL
 Lynx
 Nutch
 Java
-Ruby
 PEAR
 SEOstats
 Python-urllib
