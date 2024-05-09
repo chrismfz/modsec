@@ -24,7 +24,6 @@ Twitturly
 Viewzi
 Yandex
 YebolBot
-libwww-perl
 BinGet
 PycURL
 Lynx
@@ -32,8 +31,6 @@ Nutch
 Java
 PEAR
 SEOstats
-Python-urllib
-python-requests
 HTTP_Request
 HTTP_Request2
 Zend_Http_Client
@@ -51,7 +48,6 @@ DoCoMo
 ichiro
 NaverBot
 meanpathbot
-Babya Discoverer
 Genieo
 shr_recommendations_app
 multi_get
@@ -92,7 +88,6 @@ NCBot
 JikeSpider
 Curious
 visaduhoc.info
-Dow Jones Searchbot
 SISTRIX
 brandwatch.net
 magpie-crawler
@@ -110,10 +105,7 @@ Riddler
 CLIPish
 proximic
 WebCapture
-Indy Library
-Add Catalog
 Butterfly
-MSIE or Firefox mutant
 SocialSearcher
 xpymep.exe
 linkdex.com
@@ -125,15 +117,11 @@ WEBSITEtheWEB
 CatchBot
 NextGenSearchBot
 BacklinkCrawler
-rarely used
 DomainCrawler
 ltbot
-NetcraftSurveyAgent
 OpenWebIndex
-FTRF: Friendly
 Wotbot
 QuerySeekerSpider
-netEstate NE Crawler
 Synapse
 dragostea
 tencenttraveler
@@ -153,19 +141,16 @@ CherryPickerSE/1.0
 CopyRightCheck
 cosmos
 Crescent
-Crescent Internet ToolPak HTTP OLE Control v.1.0
 DittoSpyder
 EmailCollector
 EroCrawler
 Foobot
 Harvest/1.5
 hloader
-httplib
 humanlinks
 InfoNaviRobot
 JennyBot
 Kenjin Spider
-Keyword Density/0.9
 LexiBot
 libWeb/clsHTTP
 LinkextractorPro
@@ -174,14 +159,6 @@ LinkWalker
 LNSpiderguy
 lwp-trivial
 lwp-trivial/1.34
-Mata Hari
-Microsoft URL Control - 5.01.4511
-Microsoft URL Control - 6.00.8169
-MIIxpc
-MIIxpc/4.2
-Mister PiX
-moget
-moget/2.1
 Mozilla/4.0 (compatible; BullsEye; Windows 95)
 Mozilla/4.0 (compatible; MSIE 4.0; Windows 95)
 Mozilla/4.0 (compatible; MSIE 4.0; Windows 98)
@@ -193,12 +170,10 @@ NetAnts
 NICErsPRO
 Offline Explorer
 Openfind
-Openfind data gathere
 ProPowerBot/2.14
 ProWebWalker
 QueryN Metasearch
 RepoMonkey
-RepoMonkey Bait & Tackle/v1.01
 SpankBot
 spanner
 suzuran
@@ -214,7 +189,6 @@ toCrawl/UrlDispatcher
 True_Robot
 True_Robot/1.0
 turingos
-URLy Warning
 VCI
 VCI WebViewer VCI WebViewer Win32
 WebAuto
@@ -223,8 +197,6 @@ WebBandit/3.50
 WebCopier
 WebEnhancer
 WebmasterWorldForumBot
-Website Quester
-Webster Pro
 WebStripper
 WebZip
 WebZip/4.0
@@ -232,7 +204,6 @@ WWW-Collector-E
 Xenu's
 Xenu's Link Sleuth 1.1c
 Zeus
-Zeus 32297 Webster Pro V2.9 Win32
 BlackWidow
 ChinaClaw
 Custo
@@ -257,7 +228,6 @@ InterGET
 Internet
 JetCar
 JOC
-libghttp
 LeechFTP
 Mass
 MIDown
@@ -266,7 +236,6 @@ Mister
 Navroad
 NearSite
 NetSpider
-^Net
 NetZIP
 Octopus
 Offline
